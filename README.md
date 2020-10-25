@@ -1,2 +1,2 @@
 # SQL
-SQL query 정리
+SQL Query 정리
